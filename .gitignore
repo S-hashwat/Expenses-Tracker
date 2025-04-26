@@ -1,2 +1,6 @@
 expenses.csv
 .venv/
+build/
+dist/
+main.spec
+
